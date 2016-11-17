@@ -1,12 +1,9 @@
-/* Copyright © 2015 Oracle and/or its affiliates. All rights reserved. */
+
 package com.example.employees;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-/**
- *
- * @author luperalt
- */
+
 public class Employee {
 
     private long id;
